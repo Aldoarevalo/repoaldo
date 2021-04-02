@@ -1,0 +1,68 @@
+{
+   "posts": [
+    {
+       "CI_NROCI":  3524244,
+       "SOPRE5J_SOLI":  1 ,
+       "SOPRE5J_BANC_PRES":  26,
+       "SOPRE5J_RELA":  1,
+       "SOPRE5J_SOLI":  26,
+       "SOPRE5J_NUME_RELA":  1,
+       "SOPRE5J_CUEN_CODE":  1,
+       "SOPRE5J_BANC_CODE":  1,
+       "MPRB_CODBAN":  26,
+       "MPRB_CODPRA":  "PR",
+       "MPRB_NROPRA":  12800,
+       "MPRB_MONTO":  2000000,
+       "MPRB_CANCUO":  12,
+       "MPRB_MONCANCU":  1800000,
+       "MPRB_SALDO":  3600000,
+       "MPDE_APELLI":  "Ortiz",
+       "MPDE_NOMBRE":  "Aldo",
+       "MPDE_CONDIC":  1,
+       "PRCAT_CATE":  1
+    }
+        
+  ],
+   "aporteemp":[
+            {
+     "APW117_PADR":  12800,
+     "APW117_CEDU":  3524244,
+     "APW117_AANO_ANTI":  20,
+     "APW117_MMES_ANTI":  5,
+     "APW117_DDIA_ANTI":  26,
+     "APW117_TOTA_APOR":  55000000,
+     "APW117_ULTI_SUEL":  5600000       
+  }
+   ],
+    "empactivoadc":[
+            {
+     "fechaUltimoPago":  "02-04-2021",
+     "cantidadAportesPago":  55000000       
+  }
+   ],
+    "aguinaldo":[
+            {
+     "AACAA_PADR":  12800,
+     "AACAA_BANC":  26,
+     "AACAA_CEDU":  3524244,
+     "AACAA_APOR_AGUI":  5500000,
+     "AACAA_CANT_CUOT":  12,
+     "AACAA_IMPO_CUOT":  1800000,
+     "AACAA_AAMD_LIQU":  1800000,
+     "AACAA_TOTA_PAGA":  20000000,
+     "AACAA_AAMM_INIC":  "01-01-2010"       
+  }
+   ],
+    "datosbasicos":[
+            {
+     "CLI_CEDU":  3524244,
+     "CLI_NOM":  "Aldo",
+     "CLI_APEL":  "Arévalo",
+     "PAR_DIR":  "Optasiano Rivas c/ Esperanza",
+     "CLI_LABOR":  "Optasiano Rivas 2011",
+     "PRBEN_CONY_NOMB":  "Mariana",
+     "PRBEN_CONY_APEL":  "Rivas",
+     "PRBEN_CONY_CEDU":  5625122       
+  }
+   ]
+}
