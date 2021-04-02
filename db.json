@@ -21,27 +21,7 @@
        "MPDE_CONDIC": 1,
        "PRCAT_CATE": 1,
     }
-    {
-         "CI_NROCI": 3524246,
-       "SOPRE5J_SOLI":  1, 
-       "SOPRE5J_BANC_PRES": 26,
-       "SOPRE5J_RELA":  1, 
-       "SOPRE5J_SOLI": 26,
-       "SOPRE5J_NUME_RELA":  1, 
-       "SOPRE5J_CUEN_CODE": 1,
-       "SOPRE5J_BANC_CODE":  "PRJ", 
-       "MPRB_CODBAN": 26,
-       "MPRB_CODPRA":  "PR", 
-       "MPRB_NROPRA": 12800,
-       "MPRB_MONTO":  25000000,
-       "MPRB_CANCUO": 12,
-       "MPRB_MONCANCU":  1800000,
-       "MPRB_SALDO": 4600000,
-       "MPDE_APELLI":  "Arevalo Benitez", 
-       "MPDE_NOMBRE": "Ariel", 
-       "MPDE_CONDIC": 1,
-       "PRCAT_CATE": 1,
-    }
+    
   ],
    "perfil": {
      "nombre":  "typicode" 
