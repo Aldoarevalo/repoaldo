@@ -1,9 +1,8 @@
 {
    "posts": [
     {
-       "CI_NROCI": 3524244,
-       "SOPRE5J_SOLI":  "1"
-      
+       "SOPRE5J_SOLI": 1,
+       "PRCAT_CATE_BBCP":  "hola" 
     }
   ],
    "perfil": {
