@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "CLI_NOM": "Leanne Graham",
+    "CLI_APEL": "Bret",
+    "PRBEN_CONY_CEDU": "6626625",
+    "address": {
+      "PAR_DIR": "Kulas Light",
+      "CLI_BAN": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "CLI_PAD": "37.3159",
+        "CLI_CEDU": "581.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "CLI_NOM": "Leanne",
+    "CLI_APEL": "leemes",
+    "PRBEN_CONY_CEDU": "6626625",
+    "address": {
+      "PAR_DIR": "Kulas Light",
+      "CLI_BAN": "Apt. 557",
+      "city": "Gwenborough",
+      "zipcode": "92998-3875",
+      "geo": {
+        "CLI_PAD": "47.3159",
+        "CLI_CEDU": "681.1496"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
+  {
+    "id": 3,
+   "CLI_NOM": "Maria",
+    "CLI_APEL": "Bret",
+    "PRBEN_CONY_CEDU": "6625889",
+    "address": {
+      "PAR_DIR": "Kulas Light",
+      "CLI_BAN": "Apt. 558",
+      "city": "Gwenborough",
+      "zipcode": "92998-3876",
+      "geo": {
+        "CLI_PAD": "27.3159",
+        "CLI_CEDU": "381.1496"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
+  {
+    "id": 4,
+   "CLI_NOM": "Julia",
+    "CLI_APEL": "Fernanda",
+    "PRBEN_CONY_CEDU": "6625698",
+    "address": {
+      "PAR_DIR": "Kulas Light",
+      "CLI_BAN": "Apt. 559",
+      "city": "Gwenborough",
+      "zipcode": "92998-3879",
+      "geo": {
+        "CLI_PAD": "97.3159",
+        "CLI_CEDU": "981.1496"
+      }
+    },
+    "phone": "493-170-9623 x156",
+    "website": "kale.biz",
+    "company": {
+      "name": "Robel-Corkery",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "bs": "transition cutting-edge web services"
+
+    }
+  }
+]
